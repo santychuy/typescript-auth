@@ -6,15 +6,15 @@ Basic example app to show the basics of JWT [(Info)](https://jwt.io/), and pract
 
 ### Don't Forget
 
-``` bash
-npm i -S
+``` 
+$ npm i -S
 ```
 
 ### NPM Commands
 
-``` bash
-npm run start
-npm run dev
+```
+$ npm run start
+$ npm run dev
 ```
 
 ## Developers
